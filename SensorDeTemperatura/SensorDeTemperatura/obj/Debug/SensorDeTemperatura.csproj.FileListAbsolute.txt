@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\bin\Debug\SensorDeTemperatura.exe.config
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\bin\Debug\SensorDeTemperatura.exe
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\bin\Debug\SensorDeTemperatura.pdb
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\obj\Debug\SensorDeTemperatura.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\obj\Debug\SensorDeTemperatura.Form1.resources
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\obj\Debug\SensorDeTemperatura.Properties.Resources.resources
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\obj\Debug\SensorDeTemperatura.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\obj\Debug\SensorDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\obj\Debug\SensorDeTemperatura.exe
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\obj\Debug\SensorDeTemperatura.pdb
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\bin\Debug\System.IO.Ports.dll
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\bin\Debug\System.IO.Ports.xml
+C:\Users\Asus\Documents\Tareas\11Semestre\Sistemas Programables\SensorDeTemperatura\SensorDeTemperatura\obj\Debug\SensorDe.41B6EBA2.Up2Date
